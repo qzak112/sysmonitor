@@ -2,7 +2,6 @@
 
 A dead-simple, colorful, and real-time command-line system monitor written in Python. It provides an immediate, visual overview of core system resources.
 
-NOTE : AS OF RIGHT NOW, IT ONLY WORKS ON LINUX
 
 ## ✨ Features
 
