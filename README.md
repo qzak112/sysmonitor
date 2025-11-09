@@ -31,7 +31,7 @@ cd sysmonitor
 ```bash
 mv sysmonitor.py sysmonitor
 chmod +x sysmonitor
-sudo cp sysmon /usr/local/bin/
+sudo cp sysmonitor /usr/local/bin/
 ```
 ## Usage
 ```bash
