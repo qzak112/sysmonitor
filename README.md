@@ -40,4 +40,6 @@ sysmonitor
 ## License
 MIT
 
+## Screenshots
+![sysmonitor] (screenshot/region_2025-11-09_12-38-50.png)
 
