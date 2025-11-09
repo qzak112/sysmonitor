@@ -37,3 +37,7 @@ sudo cp sysmon /usr/local/bin/
 ```bash
 sysmonitor
 ```
+## License
+MIT
+
+
